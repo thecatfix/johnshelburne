@@ -1,6 +1,6 @@
-import { defineConfig } from 'astro/config'
+import { defineConfig } from 'astro/config';
 
 export default defineConfig({
-  site: 'https://thecatfix.github.io',
-  base: 'johnshelburne',
-})
+  site: 'https://johnshelburne.github.io',
+  base: '/johnshelburne',
+});
